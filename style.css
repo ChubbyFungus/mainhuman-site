@@ -411,3 +411,16 @@ p {
 .waitlist-actions {
   margin-top: 1.25em;
 }
+
+.get-ed-price {
+  font-family: var(--font-head);
+  font-size: 1.6rem;
+  margin: 0.25em 0 0.5em;
+}
+
+.price-note {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin-left: 6px;
+}
