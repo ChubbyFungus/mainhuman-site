@@ -15,7 +15,7 @@ Ed is a 3D digital person on your Windows desktop. Talk to him by voice, brainst
 Artificial Intelligence · Productivity · Windows
 
 ## Shoutouts
-OpenAI (GPT-6 Astra, GPT-5.6 Terra and Sol run Ed's thinking) · Anthropic Claude (does the focused task work) · Deepgram (speech to text) · LiveKit · Pipecat · Pocket TTS · Electron · Unreal MetaHuman
+nOpenAI (GPT-6 Astra, GPT-5.6 Terra and Sol run Ed's thinking) · Anthropic Claude (does the focused task work) · Deepgram (speech to text) · LiveKit · Pipecat · Pocket TTS · Electron
 
 ## Links
 Website: https://chubbyfungus.github.io/mainhuman-site/
