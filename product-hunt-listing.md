@@ -19,7 +19,7 @@ OpenAI (GPT-6 Astra, GPT-5.6 Terra and Sol run Ed's thinking) · Anthropic Claud
 
 ## Links
 Website: https://chubbyfungus.github.io/mainhuman-site/
-Get it: (Gumroad claim link, free today)
+Get it: https://zacbrownie.gumroad.com/l/mtdfs (free today)
 Demo video: (same as the site hero, assets/ed-demo.mp4; upload the file to the listing's video field)
 
 ## Maker comment (first comment)
