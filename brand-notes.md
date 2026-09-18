@@ -18,7 +18,7 @@ Carried over from the approved identity brief — keep enforcing this on every f
 - No measured accuracy or efficiency numbers.
 - No phone or watch apps presented as available (roadmap-only, and only Windows desktop is real today).
 - No claim of character choice or voice choice.
-- No mention of bundled AI usage/allowances or pricing (FAQ answer is fixed: "Pricing will be announced at launch.").
+- No mention of bundled AI usage/allowances or pricing (Decision 2026-09-18: free to claim on launch day, price decided later. FAQ answer: "Free to claim on launch day. Pricing will be announced after launch.").
 - Never say "works offline" or "fully local" — speech recognition uses a cloud service; only voice output, face, and memory layer are local. Task work goes to the user's own Claude account.
 - No security-certification language (no "encrypted," "SOC 2," "enterprise-grade," etc. — none of that has been verified).
 
@@ -48,6 +48,6 @@ Dark mode is driven by `prefers-color-scheme: dark` in `style.css`; no toggle UI
 
 - **Real Ed hero image** — `assets/ed-hero.png` is referenced but not present; page currently has no image at that path. Needs the real render before launch.
 - **Demo video** — `#demo` section is a static placeholder box; no video file or embed yet.
-- **Waitlist backend** — the form on the page (`action="#"`) does not submit anywhere; needs a real endpoint (and privacy copy) before it goes live.
-- **Pricing** — not decided; FAQ intentionally punts with "Pricing will be announced at launch."
+- **Get Ed** — the waitlist is gone (Product Hunt does not feature waitlisted products). The last section is a free launch-day claim through Gumroad; the build ships later as a packaged app, not readable source.
+- **Pricing** — free to claim on launch day (2026-09-18); Zac decides the price after launch.
 - **Legal pages** — no privacy policy, terms, or cookie notice yet; none are linked from the footer.
