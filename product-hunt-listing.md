@@ -31,6 +31,6 @@ How it's built: a fast local model gives Ed his quick reactions, GPT-6 Astra and
 
 What the Astra Challenge was like: the hard part was not the model, it was the timing. Getting a digital person to answer fast enough to feel present, stay quiet when he should, and hand off work without losing the thread took most of the build. Astra made the "think carefully about what actually matters here" step good enough that the rest could be fast and cheap.
 
-Ed is the first character. Norm is coming later. Windows desktop only for now. Today Ed is free to claim; the early build goes to everyone who claims it as soon as it ships. Pricing comes after launch.
+Ed is the first character. Norm is coming later. Windows desktop only for now. Today Ed is free to claim; the early build goes to everyone who claims it in the coming weeks. Pricing comes after launch.
 
 I'd love honest feedback, especially on what you'd hand Ed first.
