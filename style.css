@@ -194,8 +194,8 @@ p {
 
 .ed-hero-frame {
   width: 100%;
-  max-width: 560px;
-  aspect-ratio: 16 / 9;
+  max-width: 480px;
+  aspect-ratio: 1 / 1;
   border-radius: 16px;
   background: var(--bg-alt);
   border: 1px solid var(--border);
