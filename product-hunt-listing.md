@@ -15,7 +15,7 @@ Ed is a 3D digital person on your Windows desktop. Talk to him by voice, brainst
 Artificial Intelligence · Productivity · Windows
 
 ## Shoutouts
-OpenAI (GPT-6 Astra, GPT-5.6 Terra and Sol run Ed's thinking) · Anthropic Claude · OpenAI Codex (do the focused task work) · Deepgram (speech to text) · LiveKit · Pipecat · Pocket TTS · Electron
+(leave empty; no vendor or stack details in public copy)
 
 ## Links
 Website: https://chubbyfungus.github.io/mainhuman-site/
@@ -27,9 +27,7 @@ Hi, I'm Zac. I built mAIn human because I wanted one person to talk to at my des
 
 Ed is that person. He's a 3D head that lives on your Windows desktop. You talk to him out loud. He answers with a voice and a moving mouth, and you can interrupt him whenever you want. When something needs real focus, you say so, and Ed picks the notes that actually matter from your own memory, hands the task to whichever agent fits (Claude, Codex, and more), and keeps talking with you while it runs. When it's done, he tells you what happened, and the result lands in an inbox window you can open any time.
 
-How it's built: a fast local model gives Ed his quick reactions, GPT-6 Astra and its Terra and Sol siblings do his real thinking, Deepgram turns your voice into text, and your own agents such as Claude and Codex do the task work. Ed's voice, face, and memory layer run on your own computer.
-
-What the Astra Challenge was like: the hard part was not the model, it was the timing. Getting a digital person to answer fast enough to feel present, stay quiet when he should, and hand off work without losing the thread took most of the build. Astra made the "think carefully about what actually matters here" step good enough that the rest could be fast and cheap.
+What the Astra Challenge was like: GPT-6 Astra is what got the 3D head over the line. The hard part was the timing: a digital person that answers fast enough to feel present, stays quiet when he should, and hands off work without losing the thread.
 
 Ed is the first character. Norm is coming later. Windows desktop only for now. Today Ed is free to claim; the early build goes to everyone who claims it in the coming weeks. Pricing comes after launch.
 
