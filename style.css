@@ -424,3 +424,12 @@ p {
   color: var(--text-muted);
   margin-left: 6px;
 }
+
+.ed-hero-frame--portrait {
+  max-width: 340px;
+  aspect-ratio: 9 / 16;
+}
+
+.ed-hero-frame--portrait .ed-hero-video {
+  object-fit: contain;
+}
